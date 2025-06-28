@@ -31,6 +31,5 @@ public class TwoSum {                                           //Main class
             }   
         }
         System.out.print("]");
-        System.out.print("Hello!)");
     }
 }
